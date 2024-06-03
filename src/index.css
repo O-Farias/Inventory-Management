@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gray-900 text-gray-100;
+}
+
+nav a {
+  @apply text-white text-lg font-semibold hover:text-blue-400;
+}
+
+.container {
+  @apply bg-gray-800 p-4 rounded-lg shadow-md;
+}
+
+h2 {
+  @apply text-white;
+}
+
+p,
+ul,
+li {
+  @apply text-gray-300;
+}
+
+input,
+textarea {
+  @apply w-full px-3 py-2 border border-gray-600 rounded-md shadow-sm bg-gray-900 text-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent;
+}
+
+button {
+  @apply w-full px-4 py-2 bg-blue-600 text-white rounded-md shadow-sm hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-opacity-50;
+}
+
+table {
+  @apply w-full text-left;
+}
+
+th {
+  @apply text-gray-100;
+}
+
+td {
+  @apply text-gray-300;
+}
