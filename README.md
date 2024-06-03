@@ -27,6 +27,6 @@ Esta é uma aplicação SPA (Single Page Application) de gestão de estoque dese
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/sistema-gestao-estoque.git
-   cd sistema-gestao-estoque
+   git clone https://github.com/O-Farias/Inventory-Management
+   cd stock-managent
    ```
