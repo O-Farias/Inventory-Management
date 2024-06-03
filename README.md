@@ -30,3 +30,17 @@ Esta é uma aplicação SPA (Single Page Application) de gestão de estoque dese
    git clone https://github.com/O-Farias/Inventory-Management
    cd stock-managent
    ```
+   
+2. Instale as dependências:
+   ```bash
+   npm install
+   ```
+
+3. Execute a aplicação:
+   ```bash
+   npm run dev
+   ```
+
+## Licença
+
+Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
